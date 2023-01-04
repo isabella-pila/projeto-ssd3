@@ -3,9 +3,9 @@
 
 function App() {
   return (
-    <div >
+    <div>
 
-      <h1>ola mundo</h1>
+      <h1 className="text-primary">ola mundo</h1>
     </div>
   );
 }
