@@ -4,10 +4,10 @@ import { useEffect, useState } from 'react';
 import { SaleSum } from 'types/sale';
 import { BASE_URL } from 'utils/requests';*/
 import Chart from 'react-apexcharts';
-type ChartData = {
+/*type ChartData = {
     labels: string[];
     series: number[];
-}
+}*/
 const DonutsChart = () => {
     //forma certa
     /* const [chartData, setChartData] = useState<ChartData>({ labels: [], series:[] });
