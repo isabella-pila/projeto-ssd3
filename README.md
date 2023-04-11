@@ -1,6 +1,4 @@
-# Análise de dados com Java Spring Boot 
-
-<img height="180em" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
+# Análise de dados com Java Spring Boot  <img height="100em" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
 
  Projeto desenvolvimento web pessoal para análise de dados utilizando Spring Boot e ReactJS. 
 
